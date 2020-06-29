@@ -1,0 +1,36 @@
+*{
+	margin: 25;
+	padding: 25;
+	font-family: Century Gothic;
+	background-image: url(Saeed-Lab-background18.png);
+	background-size: cover;
+}
+.avatar {
+    vertical-align: middle;
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
+	margin-left: 42%;
+}
+h1{
+	color: red;
+	margin-top: 10;
+	font-size: 28px;
+	font-family: Century Gothic;
+}
+h2{
+	color: lime;
+	font-size: 25px;
+}
+h3{
+	color: brown;
+	font-size: 20px;
+}
+h4{
+	color: red;
+	font-size: 17px;
+	}
+	h5{
+	color: yellow;
+	font-size: 17px;
+	}
